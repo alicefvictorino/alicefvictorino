@@ -1,4 +1,4 @@
-<p align="left">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Alice+Victorino;Welcome+to+my+GitHub!)](https://git.io/typing-svg)</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hey+there!+%F0%9F%91%8B;I'm+Alice+Victorino;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Undergraduate student majoring in Computer Engineering at the Federal University of Rio Grande do Norte ([URFN](https://www.ufrn.br/)).</p>
+Undergraduate student majoring in Computer Engineering at the Federal University of Rio Grande do Norte ([URFN](https://www.ufrn.br/))
 
 ###
 
@@ -34,7 +34,8 @@
 
 ###
 
-<p align="left">- [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/account/accomplishments/verify/9FYOWQ9JR06C)<br>- [Algebra and Differential Calculus for Data Science](https://www.coursera.org/account/accomplishments/verify/NPNJ5Q8AEAVU)</p>
+- [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/account/accomplishments/verify/9FYOWQ9JR06C) (IBM)
+- [Algebra and Differential Calculus for Data Science](https://www.coursera.org/account/accomplishments/verify/NPNJ5Q8AEAVU) (University of Colorado Boulder)
 
 ###
 
