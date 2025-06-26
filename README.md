@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">I'm Alice, an undergraduate student majoring in Computer Engineering at the Federal University of Rio Grande do Norte (UFRN).<br><br>🔭  I’m working as a software development intern. My tech stack includes Angular, Spring Boot, PostgreSQL, Docker and Kubernetes.<br><br>📚 I'm currently learning more about AI, Machine Learning, and Data Science.</p>
+<p align="left">I'm Alice, an undergraduate student majoring in Computer Engineering at the Federal University of Rio Grande do Norte (UFRN).<br><br>🔭  I’m working as a software development intern. My tech stack includes Angular, Spring Boot, PostgreSQL and Docker.<br><br>📚 I'm currently learning more about AI, Machine Learning, and Data Science.</p>
 
 ###
 
@@ -33,8 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
